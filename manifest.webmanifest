@@ -1,6 +1,6 @@
 {
-  "name": "CX Quiz Hub - Ultrahuman Training Platform",
-  "short_name": "Quiz Hub",
+  "name": "CX Ultra Quiz",
+  "short_name": "CX Ultra",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
