@@ -25,7 +25,7 @@ export function CxCodex() {
           </div>
         )}
         <iframe
-          src="/cx-codex/index.html"
+          src="/cx-codex-embed/index.html"
           title="CX Codex Knowledge Base"
           className="h-full w-full"
           loading="lazy"
